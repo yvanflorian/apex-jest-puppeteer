@@ -1,0 +1,21 @@
+{
+  "name": "apex-jest-puppeteer",
+  "version": "1.0.0",
+  "description": "A working Example on how to setup your end-to-end tests in APEX using Jest and Puppeteer",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "jest": "^26.0.1",
+    "jest-environment-node": "^26.1.0",
+    "mkdirp": "^1.0.4",
+    "puppeteer": "^3.1.0"
+  },
+  "author": "yvan.florian",
+  "license": "ISC"
+}
