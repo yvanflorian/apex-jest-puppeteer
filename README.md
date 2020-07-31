@@ -5,10 +5,11 @@ Below is one sample test to raise an order with a new client with puppeteer runn
 > headless=false
 ![Sample](demo.gif)
 
-I blogged about this here:
+I blogged about this [here](https://yvanflorian.wordpress.com/):
  1. A Quick Setup of the environment for testing automation and running the first Test with Jest and Puppeteer. [here](https://yvanflorian.wordpress.com/2020/05/29/apex-e2e-testing-automation-with-jest-puppetter-2/) 
- 2. Page redirection, an intro to iframe's and a word about Jest's global methods [here](https://yvanflorian.wordpress.com/2020/05/29/apex-e2e-testing-automation-with-jest-puppetter-3/) 
+ 2. Page redirection, an intro to iframe's and a word about Jest's global methods [here](https://yvanflorian.wordpress.com/2020/07/27/apex-e2e-testing-automation-with-jest-puppeteer-3/) 
  3. A description of this repository's folder structure and global environment setup as described by the people at Puppeteer [here](https://jestjs.io/docs/en/puppeteer#custom-example-without-jest-puppeteer-preset)
 
 Running all tests with `npm test` will give below `verbose` results:
+
 ![endResults](end-result.png)
